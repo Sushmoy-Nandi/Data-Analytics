@@ -21,7 +21,7 @@ This is my first sales dashboard project, built using Excel Power Pivot and DAX 
 - **Key Takeaways**: Dominant products and markets, growing online channel, sustained profitability
 
 ## Files
-- Excel Sheet Link:![DAX, KPI and Dashboard in Excel.xlsx](https://1drv.ms/x/c/50206BBEA3EE92E0/Efz5WyDJjH1Fr6Ur3V1DNhEBnBMfHAps25RpYBO-V5k2Wg?e=pSQI8X)
+- Excel Sheet Link:[DAX, KPI and Dashboard in Excel.xlsx](https://1drv.ms/x/c/50206BBEA3EE92E0/Efz5WyDJjH1Fr6Ur3V1DNhEBnBMfHAps25RpYBO-V5k2Wg?e=pSQI8X)
 
 
 ## Notes
