@@ -1,4 +1,3 @@
-```markdown
 # Sales Dashboard Project
 
 ## Overview
@@ -28,4 +27,3 @@ This is my first sales dashboard project, built using Excel Power Pivot and DAX 
 ## Notes
 - Data cleaning was essential to resolve issues and ensure accuracy.
 - Future improvements could include interactive slicers/filters and additional visualizations.
-```
